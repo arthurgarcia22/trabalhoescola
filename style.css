@@ -1,5 +1,5 @@
  :root{
-    --roxo: #e60808;
+    --roxo: #4e4c4c;
 }
 body{
     background-color: var(--roxo); 
