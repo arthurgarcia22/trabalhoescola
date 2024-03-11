@@ -2,7 +2,7 @@ root{
     --roxo: #e60808;
 }
 body{
-    background-color: green; 
+    background-color: var(--roxo); 
 }
 
 h1{
