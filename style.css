@@ -30,7 +30,7 @@ header{
     display: flex;
     border-radius: 30px;
     border: dashed 3px black;
-    background-color: rgb(243, 104, 104);
+    background-color: brown;
 }
 
 .img-intro{
