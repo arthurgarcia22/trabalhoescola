@@ -27,6 +27,8 @@ header{
 }
 #intro{
     display: flex;
+    border-radius: 30px;
+    border: dashed 3px black;
 }
 
 .img-intro{
