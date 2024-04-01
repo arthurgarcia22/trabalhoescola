@@ -1,8 +1,10 @@
  :root{
     --roxo: #4e4c4c;
+    --branco: white;
+
 }
 body{
-    background-color: var(--roxo); 
+    background-color: var(--branco); 
 }
 
 h4{
