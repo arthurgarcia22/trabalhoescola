@@ -1,6 +1,7 @@
  :root{
     --roxo: #4e4c4c;
     --branco: white;
+    --vermelho-claro: rgb(243, 104, 104);
 
 }
 body{
@@ -21,7 +22,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: brown;
+    background-color: var(--vermelho-claro);
     flex-direction: row-reverse;
 
 }
