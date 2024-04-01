@@ -27,3 +27,7 @@ header{
 section{
     display: flex;
 }
+
+.img-intro{
+width: 20%;
+}
