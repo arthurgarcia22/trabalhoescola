@@ -23,8 +23,7 @@ header{
     flex-direction: row-reverse;
 
 }
-
-section{
+#intro{
     display: flex;
 }
 
