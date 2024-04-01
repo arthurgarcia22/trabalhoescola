@@ -1,6 +1,6 @@
  :root{
     --roxo: #4e4c4c;
-    --branco: white;
+    --branco: rgb(243, 104, 104);
 
 }
 body{
@@ -29,6 +29,7 @@ header{
     display: flex;
     border-radius: 30px;
     border: dashed 3px black;
+    border-
 }
 
 .img-intro{
