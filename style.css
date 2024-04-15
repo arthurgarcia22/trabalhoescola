@@ -54,3 +54,8 @@ header{
 .ft-integrante{
     width: 40%
 }
+
+footer{
+    background-color: white;
+    color: black;
+}
