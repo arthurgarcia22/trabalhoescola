@@ -70,11 +70,16 @@ text-decoration: none;
 }
 
 #trabalho{
-    text-align: center;
     display: flex;
     border-radius: 30px;
     border: solid 3px black;
     background-color: rgb(243, 104, 104);
     margin: 39px 52px 15px 52px;
     padding: 10px;
+    align-items: center;
+}
+}
+
+.sede{
+    width: ;
 }
