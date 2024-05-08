@@ -32,8 +32,8 @@ header{
 #intro{
     display: flex;
     border-radius: 30px;
-    border: dashed 3px black;
-    background-color: brown;
+    border: solid 3px black;
+    background-color: rgb(243, 104, 104);
     margin: 39px 52px 15px 52px;
     padding: 10px;
 }
